@@ -1,4 +1,3 @@
-
 moving_number = 50
 
 count = 0
@@ -23,7 +22,7 @@ def number_modify(inp):
         moving_number = new_num
 
 
-"""
+
 with open("_input") as f:
     for line in f:
         number_modify(line)
@@ -31,4 +30,4 @@ with open("_input") as f:
             count = count + 1
     print(count)
 
-"""
+

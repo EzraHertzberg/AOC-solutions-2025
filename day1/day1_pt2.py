@@ -40,30 +40,12 @@ def number_modify(inp):
 
 #print(pass_zero_count)
 
-"""
 
-test = [
-"L68",
-"L30",
-"R48",
-"L5",
-"R60",
-"L55",
-"L1",
-"L99",
-"R14",
-"L82"]
-
-
-for val in test:
-    number_modify(val)
-print(pass_zero_count)
-"""
 with open("_input") as f:
     for line in f:
         number_modify(line)
         if(moving_number == 0):
-            count = count + 1
+            pass
     print(pass_zero_count)
 
 

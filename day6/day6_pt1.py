@@ -1,4 +1,3 @@
-
 values = []
 
 def calc_result(vals, i):
