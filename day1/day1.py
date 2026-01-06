@@ -1,3 +1,8 @@
+"""
+Advent of Code day 1 pt 1 solution
+"""
+
+
 moving_number = 50
 
 count = 0

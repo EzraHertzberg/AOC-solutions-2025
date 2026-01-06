@@ -1,3 +1,7 @@
+"""
+Advent of Code day 1 pt 2 solution
+"""
+
 
 moving_number = 50
 

@@ -1,3 +1,6 @@
+"""
+Advent of Code day 6 pt 1 solution
+"""
 values = []
 
 def calc_result(vals, i):

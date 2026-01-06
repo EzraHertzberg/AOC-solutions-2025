@@ -1,3 +1,7 @@
+"""
+Advent of Code day 5 pt 1 solution
+"""
+
 def fresh_check(domain, ing):
     minimum, maximum = domain.split("-")
     ing = int(ing)
